@@ -1,0 +1,10 @@
+.page {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+.header {
+    width: 1300px;
+    min-height: 80px;
+    background-color: #213B7E;
+
+}
